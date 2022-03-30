@@ -3,7 +3,7 @@
 
 # Definition :-
 
-Smart Grid is an Electrical Grid with Automation, Communication and IT systems that can monitor power flows from points of generation to points of consumption (even down to appliances level) and control the power flow or curtail the load to match generation in real time or near real time.
+Smart Grid is an Electrical Grid with Automation, Communication and IT systems that can monitor power flows from points of generation to points of consumption and control the power flow or curtail the load to match generation in real time or near real time.
 
 Smart Grids can be achieved by implementing efficient transmission & distribution systems, system operations, consumer integration and renewable integration.
 
@@ -16,3 +16,16 @@ Smart grid solutions can contribute to reduction of T&D losses, Peak load manage
 # Upgrading the Electrical Grid (Component):-
 
 Upgrades to the electrical grid allow each critical component, such as substations and transformers, if a critical component such as a transformer was overloaded or overheating, a message would go out to a monitoring station. When this information is received, the power could be rerouted until the transformer is replaced.
+
+# 1. Advanced Meter Infrastructure
+Advanced Metering Infrastructure (AMI) facilitates monitoring and measurement of consumer information through Smart Meters installed at customer. AMI consists of new sensors, communication networks, and data management systems that are used to modernize the electrical grid and provide new capabilities to utilities and customers
+
+# 2. Distributed Power Generation
+
+Distributed power generation is the use of small-scale power generation technologies located close to the loads that are being served. Distributed power generation systems can include PV arrays, wind turbines, biodiesel generators, and other relatively small-scale power systems. 
+
+# 3. Peak Load Management
+The peak management refers to controlling the demand and matching it to the available supply at the instant of peak. The peak management function shall take inputs from SCADA for power availability and volume of shortage.
+
+
+
