@@ -12,3 +12,7 @@ Smart grid solutions helps to monitor, measure and control power flows in real t
 Smart grid solutions can contribute to reduction of T&D losses, Peak load management, improved quality of Service, increased reliability, better asset management, renewable integration, better accessibility to electricity etc. and also lead to self-healing grids.
 
 ![image](https://user-images.githubusercontent.com/66677660/160844880-c139b9fe-67e4-4128-996d-37192730966c.png)
+
+# Upgrading the Electrical Grid (Component):-
+
+Upgrades to the electrical grid allow each critical component, such as substations and transformers, if a critical component such as a transformer was overloaded or overheating, a message would go out to a monitoring station. When this information is received, the power could be rerouted until the transformer is replaced.
