@@ -3,7 +3,7 @@
 
 # Definition :-
 
-Smart Grid is an Electrical Grid with Automation, Communication and IT systems that can monitor power flows from points of generation to points of consumption and control the power flow.
+Smart Grid is an Electrical Grid with Automation, Communication and IT systems that can monitor power flows from points of generation to points of consumption and control the power flow in both direction.
 
 Smart grid solutions helps to monitor, measure and control power flows in real time that can contribute to identification of losses and thereby appropriate technical and managerial actions can be taken to arrest the losses.
 
