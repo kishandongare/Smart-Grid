@@ -38,5 +38,30 @@ The peak management refers to controlling the demand and matching it to the avai
 # 6. Digital Relays
 Digital relays use microprocessors to measure power (currents and voltage) and process this information through their internal logic to control the operation of a circuit breaker.
 
+# Features of Smart Grid
+Smart grid has several positive features that give direct benefit to consumers:
 
+Real time monitoring.
+Automated outage management and faster restoration.
+Dynamic pricing mechanisms.
+Incentivize consumers to alter usage during different times of day based on pricing signals.
+Better energy management.
+In-house displays.
+Web portals and mobile apps.
+Track and manage energy usage.
+Opportunities to reduce and conserve electricity etc.
+
+Smart Grid will also facilitate distributed generation, especially the roof top solar generation, by allowing movement and measurement of energy in both directions using control systems and net metering that will help “prosumers” i.e. the consumers who both produce and consume electricity, to safely connect to the grid.
+
+# Benefits of Smart Grid Deployments
+Several groups of the society are provided with multiple benefits through the Smart Grid implementations. Such include utility, customers and the regulators while some of the benefits include:
+
+Reduction of T&D losses.
+Peak load management, improved QoS and reliability.
+Reduction in power purchase cost.
+Better asset management.
+Increased grid visibility and self-healing grids.
+Renewable integration and accessibility to electricity.
+Increased options such as ToU tariff, DR programs, net metering.
+Satisfied customers and financially sound utilities etc.
 
