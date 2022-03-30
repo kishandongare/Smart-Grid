@@ -10,3 +10,5 @@ Smart Grids can be achieved by implementing efficient transmission & distributio
 Smart grid solutions helps to monitor, measure and control power flows in real time that can contribute to identification of losses and thereby appropriate technical and managerial actions can be taken to arrest the losses.
 
 Smart grid solutions can contribute to reduction of T&D losses, Peak load management, improved quality of Service, increased reliability, better asset management, renewable integration, better accessibility to electricity etc. and also lead to self-healing grids.
+
+![image](https://user-images.githubusercontent.com/66677660/160844880-c139b9fe-67e4-4128-996d-37192730966c.png)
