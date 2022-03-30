@@ -21,10 +21,13 @@ Upgrades to the electrical grid allow each critical component, such as substatio
 Advanced Metering Infrastructure (AMI) facilitates monitoring and measurement of consumer information through Smart Meters installed at customer. AMI consists of new sensors, communication networks, and data management systems that are used to modernize the electrical grid and provide new capabilities to utilities and customers
 
 # 2. Distributed Power Generation
-
 Distributed power generation is the use of small-scale power generation technologies located close to the loads that are being served. Distributed power generation systems can include PV arrays, wind turbines, biodiesel generators, and other relatively small-scale power systems. 
 ![image](https://user-images.githubusercontent.com/66677660/160866112-74cd7148-820a-4f75-aca5-f0314f168197.png)
 
+# 4. Interactive Distributed Generation
+With interactive distributed generation, utility customers are served by both the centralized power plant and the power exported from interconnected distribution generators.
+
+![image](https://user-images.githubusercontent.com/66677660/160868482-6803edfa-d3ed-47dd-a748-45a541693bb0.png)
 
 # 3. Peak Load Management
 The peak management refers to controlling the demand and matching it to the available supply at the instant of peak. The peak management function shall take inputs from SCADA for power availability and volume of shortage.
