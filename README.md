@@ -18,7 +18,7 @@ Smart grid solutions can contribute to reduction of T&D losses, Peak load manage
 Upgrades to the electrical grid allow each critical component, such as substations and transformers, if a critical component such as a transformer was overloaded or overheating, a message would go out to a monitoring station. When this information is received, the power could be rerouted until the transformer is replaced.
 
 # 1. Advanced Meter Infrastructure
-Advanced Metering Infrastructure (AMI) facilitates monitoring and measurement of consumer information through Smart Meters installed at customer. AMI consists of new sensors, communication networks, and data management systems that are used to modernize the electrical grid and provide new capabilities to utilities and customers
+Advanced Metering Infrastructure (AMI) facilitates monitoring and measurement of consumer information through Smart Meters installed at customer. AMI consists of new sensors, communication networks, and data management systems that are used to modernize the electrical grid and provide new capabilities to utilities and customers.Real-time monitoring and sensing are an essential component of a smart grid.
 
 # 2. Distributed Power Generation
 Distributed power generation is the use of small-scale power generation technologies located close to the loads that are being served. Distributed power generation systems can include PV arrays, wind turbines, biodiesel generators, and other relatively small-scale power systems. 
@@ -29,8 +29,14 @@ With interactive distributed generation, utility customers are served by both th
 
 ![image](https://user-images.githubusercontent.com/66677660/160868482-6803edfa-d3ed-47dd-a748-45a541693bb0.png)
 
-# 4. Peak Load Management
+# 4. Phasor Measurements
+A phasor measurement unit (PMU) is a device that measures electrical waveforms on the electrical grid, As more power is delivered through the current electrical grid, renewable energy sources such as solar energy and wind are raising concerns on how to maintain electrical grid balance and stability.
+
+# 5. Peak Load Management
 The peak management refers to controlling the demand and matching it to the available supply at the instant of peak. The peak management function shall take inputs from SCADA for power availability and volume of shortage.
+
+# 6. Digital Relays
+Digital relays use microprocessors to measure power (currents and voltage) and process this information through their internal logic to control the operation of a circuit breaker.
 
 
 
