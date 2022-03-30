@@ -1,1 +1,1 @@
-# Smart-Grid
+# Smart Grid
